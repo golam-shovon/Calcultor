@@ -1,0 +1,18 @@
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\shovon\Desktop\C sharp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\shovon\Desktop\C sharp\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\shovon\Desktop\C sharp\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\shovon\Desktop\C sharp\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\shovon\Desktop\C sharp\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\shovon\Desktop\C sharp\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\shovon\Desktop\C sharp\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\shovon\Desktop\C sharp\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\shovon\Desktop\C sharp\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
